@@ -20,8 +20,8 @@ def main():
     print("Data split into x_train and y_train.")
 
 
-    trainer = TrainModel(split_output_dir, model_path)
+    trainer = TrainModel(split_output_dir, model_path,experiment_name="School_Grade_Prediction")
     trainer.run_training()
-    
+
 if __name__ == "__main__":
     main()

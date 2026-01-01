@@ -1,0 +1,22 @@
+artifact_path: /Users/siddharthaganguli/Desktop/Goverment/src/mlruns/1/models/m-309cd8e7c24b4a6a9fa9d2fed2848810/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.1
+model_id: m-309cd8e7c24b4a6a9fa9d2fed2848810
+model_size_bytes: 1205111
+model_uuid: m-309cd8e7c24b4a6a9fa9d2fed2848810
+prompts: null
+run_id: fe54e5fbae0740fd8f873d643ac55d09
+utc_time_created: '2026-01-01 12:21:52.322529'

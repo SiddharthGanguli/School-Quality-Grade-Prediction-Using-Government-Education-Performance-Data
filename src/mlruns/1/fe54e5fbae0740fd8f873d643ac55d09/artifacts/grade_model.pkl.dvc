@@ -1,0 +1,5 @@
+outs:
+- md5: 93f542ed84d703879b113932a86a8b5f
+  size: 1221241
+  hash: md5
+  path: grade_model.pkl
