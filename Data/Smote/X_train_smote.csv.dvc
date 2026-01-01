@@ -1,0 +1,5 @@
+outs:
+- md5: 6d71f988387551c662b35f6c3361a831
+  size: 24959
+  hash: md5
+  path: X_train_smote.csv
