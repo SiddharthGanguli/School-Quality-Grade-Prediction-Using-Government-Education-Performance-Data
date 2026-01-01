@@ -1,0 +1,5 @@
+outs:
+- md5: 06308f40886475e51da99b6c18855116
+  size: 2238
+  hash: md5
+  path: y_train_smote.csv
