@@ -1,0 +1,10 @@
+pandas
+numpy 
+seaborn
+scikit-learn 
+uvicorn 
+fastapi
+pydantic 
+dvc
+dvc[gdrive]
+mlflow
